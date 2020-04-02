@@ -12,5 +12,3 @@ Mikolov T, Chen K, Corrado G, et al. Efficient estimation of word representation
 ## Elmo
 
 ## Bert
-
-## Dialogue
