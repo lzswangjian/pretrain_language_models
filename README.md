@@ -12,4 +12,4 @@ Mikolov T, Chen K, Corrado G, et al. Efficient estimation of word representation
 
 ## Bert
 
-## Diaologue
+## Dialogue
